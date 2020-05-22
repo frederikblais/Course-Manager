@@ -1,0 +1,10 @@
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\bin\Debug\Course Manager V2.exe.config
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\bin\Debug\Course Manager V2.exe
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\bin\Debug\Course Manager V2.pdb
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\obj\Debug\Course Manager V2.csprojAssemblyReference.cache
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\obj\Debug\Course_Manager_V2.DisplayForm.resources
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\obj\Debug\Course_Manager_V2.mainForm.resources
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\obj\Debug\Course_Manager_V2.Properties.Resources.resources
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\obj\Debug\Course Manager V2.csproj.GenerateResource.cache
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\obj\Debug\Course Manager V2.exe
+C:\Users\Frederik Blais\Desktop\Course Manager V2\Course Manager V2\obj\Debug\Course Manager V2.pdb
